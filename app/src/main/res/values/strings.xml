@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DatabaseSample</string>
+    <string name="update_user">Update user</string>
 </resources>
