@@ -1,2 +1,3 @@
 # DatabaseSample
-Room Database sample with Live Data
+Room orm sample
+with Live Data
